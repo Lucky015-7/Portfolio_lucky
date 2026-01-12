@@ -86,10 +86,4 @@ The app will be available at http://localhost:5173.
 
 
 
----
-
-## 📬 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-sanati/) 
-
-
 
