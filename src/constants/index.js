@@ -78,7 +78,6 @@ export const myProjects = [
       "Built an AI driven multi agent system.",
     subDescription: [
       "For automated expense categorization, budgeting, goal tracking, and savings insights.",
-      "Using a hybrid spaCy + LLM approach.",
       "Developed a real time Streamlit dashboard, implemented secure authentication (JWT, Google OAuth).",
       "Conducted LLM fine-tuning with Unsloth + QLoRA on 500k finance instructions.",
       "Deploying the production system on Gemma 1B via Ollama.",
@@ -117,7 +116,6 @@ export const myProjects = [
     subDescription: [
       "Using XGBoost model trained on 18,000+ Canadian properties, with advanced location based feature engineering.",
       "Developed a physics engine with collision detection and particle effects.",
-      "Deployed a Streamlit web app.",
       "Delivering real-time price predictions, interactive Plotly visualizations, feature importance, regional analysis, and percentile-based market comparisons.",
     ],
     href: "https://github.com/Lucky015-7/Real_state_Price_predictor",
