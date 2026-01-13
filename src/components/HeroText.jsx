@@ -72,7 +72,8 @@ const HeroText = () => {
             animate="visible"
             transition={{ delay: 1.2 }}
           >
-            Building
+            Data Science Undergraduate  <br /> AI & ML Enthusiast
+            <br /> Developing
           </motion.p>
           <motion.div
             variants={variants}
@@ -92,7 +93,7 @@ const HeroText = () => {
             animate="visible"
             transition={{ delay: 1.8 }}
           >
-            Web Applications
+            Solutions
           </motion.p>
         </div>
       </div>
