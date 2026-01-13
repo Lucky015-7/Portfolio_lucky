@@ -78,8 +78,7 @@ export const myProjects = [
     subDescription: [
       "For automated expense categorization, budgeting, goal tracking, and savings insights.",
       "Developed a real time Streamlit dashboard, implemented secure authentication (JWT, Google OAuth).",
-      "Conducted LLM fine-tuning with Unsloth + QLoRA on 500k finance instructions.",
-      "Deploying the production system on Gemma 1B via Ollama.",
+      "Conducted LLM fine-tuning with Unsloth + QLoRA on 500k finance instructions and deployed the production system on Gemma 1B via Ollama.",
     ],
     href: "https://github.com/Lucky015-7/Real_state_Price_predictor",
     logo: "",
