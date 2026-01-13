@@ -5,10 +5,10 @@ export const myProjects = [
     description:
       "Built an Retrieval-Augmented-Generation (RAG) system",
     subDescription: [
-      "for context aware document querying using FastAPI and Streamlit, leveraging Groq  accelerated Llama-3.3 70B inference, ChromaDB vector storage, and HuggingFace embeddings, with persistent Multi-User chat sessions managed via SQLite.",
+      "for context aware document querying using FastAPI and Streamlit, leveraging Groq accelerated Llama-3.3 70B inference, ChromaDB vector storage and HuggingFace embeddings with persistent Multi-User chat sessions managed via SQLite.",
       "Designed a containerized multi service architecture with Docker and Docker compose.",
       "Deployed the application on AWS EC2 with secure VPC networking.",
-      "Established a Git based CI/CD workflow to streamline deployment and ensure environment consistency.",
+      "Established a Git based CI/CD workflow to streamline deployment.",
     ],
     href: "https://github.com/Lucky015-7/FastAPI-Streamlit-RAG-Application",
     logo: "",
